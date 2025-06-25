@@ -21,10 +21,10 @@ To run this project locally:
 
 ```bash
 # Clone the repo
-git clone https://gitlab.com/Yulia_Mykytiuk/cart-functionality.git
+git clone https://github.com/Yulia-Mykytiuk/react-essentials.git
 
 # Navigate into the project directory
-cd cart-functionality
+cd react-essentials
 
 # Install dependencies
 npm install
