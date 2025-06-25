@@ -1,4 +1,4 @@
-# Cart functionality
+# React essentials
 
 <img src="public/essentials-preview.png" alt="Project Preview" width="800"/>
 
